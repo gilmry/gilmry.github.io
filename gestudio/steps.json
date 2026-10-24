@@ -1,5 +1,5 @@
 {
- "recordedAt": "2026-10-24T05:03:06.861Z",
+ "recordedAt": "2026-10-24T05:58:50.983Z",
  "base": "http://127.0.0.1:28080",
  "steps": [
   {
@@ -181,6 +181,36 @@
    "n": 36,
    "title": "Le site de studio-demo est de retour",
    "file": "36-le-site-de-studio-demo-est-de-retour.png"
+  },
+  {
+   "n": 37,
+   "title": "Horaires : l'horaire d'automne, transcrit en tableau, pas encore affiché",
+   "file": "37-horaires-l-horaire-d-automne-transcrit-en-tableau-pas-encore-affich.png"
+  },
+  {
+   "n": 38,
+   "title": "Un créneau changé : Débutants, mardi",
+   "file": "38-un-cr-neau-chang-d-butants-mardi.png"
+  },
+  {
+   "n": 39,
+   "title": "Un cours ajouté : son nom est suggéré par la page « Les cours »",
+   "file": "39-un-cours-ajout-son-nom-est-sugg-r-par-la-page-les-cours.png"
+  },
+  {
+   "n": 40,
+   "title": "« Afficher ce tableau sur le site à la place de l'image » est coché",
+   "file": "40-afficher-ce-tableau-sur-le-site-la-place-de-l-image-est-coch.png"
+  },
+  {
+   "n": 41,
+   "title": "Enregistrement puis publication",
+   "file": "41-enregistrement-puis-publication.png"
+  },
+  {
+   "n": 42,
+   "title": "La page des horaires montre le tableau, avec le créneau modifié et le cours ajouté",
+   "file": "42-la-page-des-horaires-montre-le-tableau-avec-le-cr-neau-modifi-et-le-cours-ajout.png"
   }
  ]
 }
