@@ -1,0 +1,186 @@
+{
+ "recordedAt": "2026-10-24T05:03:06.861Z",
+ "base": "http://127.0.0.1:28080",
+ "steps": [
+  {
+   "n": 1,
+   "title": "Le site publié, avant modification",
+   "file": "01-le-site-publi-avant-modification.png"
+  },
+  {
+   "n": 2,
+   "title": "L'administration demande une connexion",
+   "file": "02-l-administration-demande-une-connexion.png"
+  },
+  {
+   "n": 3,
+   "title": "Connexion de l'éditrice",
+   "file": "03-connexion-de-l-ditrice.png"
+  },
+  {
+   "n": 4,
+   "title": "Choix de la page d'accueil",
+   "file": "04-choix-de-la-page-d-accueil.png"
+  },
+  {
+   "n": 5,
+   "title": "Choix de la zone « Texte d’accueil »",
+   "file": "05-choix-de-la-zone-texte-d-accueil.png"
+  },
+  {
+   "n": 6,
+   "title": "Modification du texte dans l'éditeur",
+   "file": "06-modification-du-texte-dans-l-diteur.png"
+  },
+  {
+   "n": 7,
+   "title": "Enregistrement (brouillon)",
+   "file": "07-enregistrement-brouillon.png"
+  },
+  {
+   "n": 8,
+   "title": "Le site en ligne n'a pas encore changé",
+   "file": "08-le-site-en-ligne-n-a-pas-encore-chang.png"
+  },
+  {
+   "n": 9,
+   "title": "Publication (génération du site statique)",
+   "file": "09-publication-g-n-ration-du-site-statique.png"
+  },
+  {
+   "n": 10,
+   "title": "La page d'accueil publiée affiche le nouveau texte",
+   "file": "10-la-page-d-accueil-publi-e-affiche-le-nouveau-texte.png"
+  },
+  {
+   "n": 11,
+   "title": "L'historique garde la version précédente (restaurable)",
+   "file": "11-l-historique-garde-la-version-pr-c-dente-restaurable.png"
+  },
+  {
+   "n": 12,
+   "title": "Retour à l'administration : la collection des professeurs",
+   "file": "12-retour-l-administration-la-collection-des-professeurs.png"
+  },
+  {
+   "n": 13,
+   "title": "Nouvelle photo pour le premier professeur (téléversée vers le stockage S3)",
+   "file": "13-nouvelle-photo-pour-le-premier-professeur-t-l-vers-e-vers-le-stockage-s3.png"
+  },
+  {
+   "n": 14,
+   "title": "Ajout d'un troisième professeur",
+   "file": "14-ajout-d-un-troisi-me-professeur.png"
+  },
+  {
+   "n": 15,
+   "title": "Enregistrement puis publication",
+   "file": "15-enregistrement-puis-publication.png"
+  },
+  {
+   "n": 16,
+   "title": "La page publiée montre trois professeurs, dont la nouvelle photo",
+   "file": "16-la-page-publi-e-montre-trois-professeurs-dont-la-nouvelle-photo.png"
+  },
+  {
+   "n": 17,
+   "title": "La collection des cours dans l'administration",
+   "file": "17-la-collection-des-cours-dans-l-administration.png"
+  },
+  {
+   "n": 18,
+   "title": "Le cours « Free Pole » est masqué d'une case à cocher",
+   "file": "18-le-cours-free-pole-est-masqu-d-une-case-cocher.png"
+  },
+  {
+   "n": 19,
+   "title": "Enregistrement puis publication",
+   "file": "19-enregistrement-puis-publication.png"
+  },
+  {
+   "n": 20,
+   "title": "La page des cours publiée n'affiche plus « Free Pole »",
+   "file": "20-la-page-des-cours-publi-e-n-affiche-plus-free-pole.png"
+  },
+  {
+   "n": 21,
+   "title": "L'onglet « Mon studio » : les coordonnées du studio",
+   "file": "21-l-onglet-mon-studio-les-coordonn-es-du-studio.png"
+  },
+  {
+   "n": 22,
+   "title": "Une TVA belge invalide est signalée sous son champ",
+   "file": "22-une-tva-belge-invalide-est-signal-e-sous-son-champ.png"
+  },
+  {
+   "n": 23,
+   "title": "Annuler sans enregistrer restaure les valeurs",
+   "file": "23-annuler-sans-enregistrer-restaure-les-valeurs.png"
+  },
+  {
+   "n": 24,
+   "title": "Nouveau téléphone enregistré",
+   "file": "24-nouveau-t-l-phone-enregistr.png"
+  },
+  {
+   "n": 25,
+   "title": "Publication du site",
+   "file": "25-publication-du-site.png"
+  },
+  {
+   "n": 26,
+   "title": "Le pied de page publié montre le nouveau numéro",
+   "file": "26-le-pied-de-page-publi-montre-le-nouveau-num-ro.png"
+  },
+  {
+   "n": 27,
+   "title": "L'espace opérateur demande une connexion, même avec une session de gérante",
+   "file": "27-l-espace-op-rateur-demande-une-connexion-m-me-avec-une-session-de-g-rante.png"
+  },
+  {
+   "n": 28,
+   "title": "Connexion de l'opérateur : la liste des studios",
+   "file": "28-connexion-de-l-op-rateur-la-liste-des-studios.png"
+  },
+  {
+   "n": 29,
+   "title": "Un slug déjà pris est refusé, l'erreur est affichée en clair",
+   "file": "29-un-slug-d-j-pris-est-refus-l-erreur-est-affich-e-en-clair.png"
+  },
+  {
+   "n": 30,
+   "title": "Création de « Studio Démo » : le mot de passe initial s'affiche une seule fois",
+   "file": "30-cr-ation-de-studio-d-mo-le-mot-de-passe-initial-s-affiche-une-seule-fois.png"
+  },
+  {
+   "n": 31,
+   "title": "Le site modèle de Studio Démo est en ligne sur son sous-domaine",
+   "file": "31-le-site-mod-le-de-studio-d-mo-est-en-ligne-sur-son-sous-domaine.png"
+  },
+  {
+   "n": 32,
+   "title": "Retour au tableau : le mot de passe initial n'est plus affiché",
+   "file": "32-retour-au-tableau-le-mot-de-passe-initial-n-est-plus-affich.png"
+  },
+  {
+   "n": 33,
+   "title": "Suspension de studio-demo, après confirmation",
+   "file": "33-suspension-de-studio-demo-apr-s-confirmation.png"
+  },
+  {
+   "n": 34,
+   "title": "L'adresse de studio-demo affiche « Site introuvable »",
+   "file": "34-l-adresse-de-studio-demo-affiche-site-introuvable.png"
+  },
+  {
+   "n": 35,
+   "title": "Réactivation de studio-demo",
+   "file": "35-r-activation-de-studio-demo.png"
+  },
+  {
+   "n": 36,
+   "title": "Le site de studio-demo est de retour",
+   "file": "36-le-site-de-studio-demo-est-de-retour.png"
+  }
+ ]
+}
