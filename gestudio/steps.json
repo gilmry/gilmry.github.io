@@ -1,216 +1,534 @@
 {
- "recordedAt": "2026-10-24T05:58:50.983Z",
+ "recordedAt": "2026-10-25T07:45:45.358Z",
  "base": "http://127.0.0.1:28080",
+ "films": [
+  {
+   "fichier": "parcours.webm",
+   "ms": 205302,
+   "octets": 14115287,
+   "cadence": {
+    "gestes": 66,
+    "ecartMinMs": 1008,
+    "ecartMedianMs": 1244,
+    "ecartMoyenMs": 2862
+   }
+  },
+  {
+   "fichier": "parcours-9.webm",
+   "ms": 231978,
+   "octets": 16513290,
+   "cadence": {
+    "gestes": 106,
+    "ecartMinMs": 1009,
+    "ecartMedianMs": 1046,
+    "ecartMoyenMs": 2180
+   }
+  }
+ ],
+ "o1": {
+  "ms": 14918,
+  "objectifMs": 600000,
+  "ok": true,
+  "texte": "de l'onglet Réservations à la session créée, au rythme du film (une pause d'une seconde après chaque geste)"
+ },
+ "o2": {
+  "gestes": 3,
+  "ms": 5259,
+  "objectif": 3,
+  "ok": true
+ },
+ "horloge": {
+  "depart9": "2026-10-26T08:00:00Z",
+  "seance": "2026-10-28T18:00:00Z",
+  "soldeAvant": "10 séances restantes, jusqu'au 24 janvier 2027",
+  "soldeApres": "9 séances restantes, jusqu'au 24 janvier 2027"
+ },
  "steps": [
   {
    "n": 1,
    "title": "Le site publié, avant modification",
-   "file": "01-le-site-publi-avant-modification.png"
+   "file": "01-le-site-publie-avant-modification.png",
+   "film": "parcours"
   },
   {
    "n": 2,
    "title": "L'administration demande une connexion",
-   "file": "02-l-administration-demande-une-connexion.png"
+   "file": "02-l-administration-demande-une-connexion.png",
+   "film": "parcours"
   },
   {
    "n": 3,
    "title": "Connexion de l'éditrice",
-   "file": "03-connexion-de-l-ditrice.png"
+   "file": "03-connexion-de-l-editrice.png",
+   "film": "parcours"
   },
   {
    "n": 4,
    "title": "Choix de la page d'accueil",
-   "file": "04-choix-de-la-page-d-accueil.png"
+   "file": "04-choix-de-la-page-d-accueil.png",
+   "film": "parcours"
   },
   {
    "n": 5,
    "title": "Choix de la zone « Texte d’accueil »",
-   "file": "05-choix-de-la-zone-texte-d-accueil.png"
+   "file": "05-choix-de-la-zone-texte-d-accueil.png",
+   "film": "parcours"
   },
   {
    "n": 6,
    "title": "Modification du texte dans l'éditeur",
-   "file": "06-modification-du-texte-dans-l-diteur.png"
+   "file": "06-modification-du-texte-dans-l-editeur.png",
+   "film": "parcours"
   },
   {
    "n": 7,
    "title": "Enregistrement (brouillon)",
-   "file": "07-enregistrement-brouillon.png"
+   "file": "07-enregistrement-brouillon.png",
+   "film": "parcours"
   },
   {
    "n": 8,
    "title": "Le site en ligne n'a pas encore changé",
-   "file": "08-le-site-en-ligne-n-a-pas-encore-chang.png"
+   "file": "08-le-site-en-ligne-n-a-pas-encore-change.png",
+   "film": "parcours"
   },
   {
    "n": 9,
    "title": "Publication (génération du site statique)",
-   "file": "09-publication-g-n-ration-du-site-statique.png"
+   "file": "09-publication-generation-du-site-statique.png",
+   "film": "parcours"
   },
   {
    "n": 10,
    "title": "La page d'accueil publiée affiche le nouveau texte",
-   "file": "10-la-page-d-accueil-publi-e-affiche-le-nouveau-texte.png"
+   "file": "10-la-page-d-accueil-publiee-affiche-le-nouveau-texte.png",
+   "film": "parcours"
   },
   {
    "n": 11,
    "title": "L'historique garde la version précédente (restaurable)",
-   "file": "11-l-historique-garde-la-version-pr-c-dente-restaurable.png"
+   "file": "11-l-historique-garde-la-version-precedente-restaurable.png",
+   "film": "parcours"
   },
   {
    "n": 12,
    "title": "Retour à l'administration : la collection des professeurs",
-   "file": "12-retour-l-administration-la-collection-des-professeurs.png"
+   "file": "12-retour-a-l-administration-la-collection-des-professeurs.png",
+   "film": "parcours"
   },
   {
    "n": 13,
    "title": "Nouvelle photo pour le premier professeur (téléversée vers le stockage S3)",
-   "file": "13-nouvelle-photo-pour-le-premier-professeur-t-l-vers-e-vers-le-stockage-s3.png"
+   "file": "13-nouvelle-photo-pour-le-premier-professeur-televersee-vers-le-stockage-s3.png",
+   "film": "parcours"
   },
   {
    "n": 14,
    "title": "Ajout d'un troisième professeur",
-   "file": "14-ajout-d-un-troisi-me-professeur.png"
+   "file": "14-ajout-d-un-troisieme-professeur.png",
+   "film": "parcours"
   },
   {
    "n": 15,
    "title": "Enregistrement puis publication",
-   "file": "15-enregistrement-puis-publication.png"
+   "file": "15-enregistrement-puis-publication.png",
+   "film": "parcours"
   },
   {
    "n": 16,
    "title": "La page publiée montre trois professeurs, dont la nouvelle photo",
-   "file": "16-la-page-publi-e-montre-trois-professeurs-dont-la-nouvelle-photo.png"
+   "file": "16-la-page-publiee-montre-trois-professeurs-dont-la-nouvelle-photo.png",
+   "film": "parcours"
   },
   {
    "n": 17,
    "title": "La collection des cours dans l'administration",
-   "file": "17-la-collection-des-cours-dans-l-administration.png"
+   "file": "17-la-collection-des-cours-dans-l-administration.png",
+   "film": "parcours"
   },
   {
    "n": 18,
    "title": "Le cours « Free Pole » est masqué d'une case à cocher",
-   "file": "18-le-cours-free-pole-est-masqu-d-une-case-cocher.png"
+   "file": "18-le-cours-free-pole-est-masque-d-une-case-a-cocher.png",
+   "film": "parcours"
   },
   {
    "n": 19,
    "title": "Enregistrement puis publication",
-   "file": "19-enregistrement-puis-publication.png"
+   "file": "19-enregistrement-puis-publication.png",
+   "film": "parcours"
   },
   {
    "n": 20,
    "title": "La page des cours publiée n'affiche plus « Free Pole »",
-   "file": "20-la-page-des-cours-publi-e-n-affiche-plus-free-pole.png"
+   "file": "20-la-page-des-cours-publiee-n-affiche-plus-free-pole.png",
+   "film": "parcours"
   },
   {
    "n": 21,
    "title": "L'onglet « Mon studio » : les coordonnées du studio",
-   "file": "21-l-onglet-mon-studio-les-coordonn-es-du-studio.png"
+   "file": "21-l-onglet-mon-studio-les-coordonnees-du-studio.png",
+   "film": "parcours"
   },
   {
    "n": 22,
    "title": "Une TVA belge invalide est signalée sous son champ",
-   "file": "22-une-tva-belge-invalide-est-signal-e-sous-son-champ.png"
+   "file": "22-une-tva-belge-invalide-est-signalee-sous-son-champ.png",
+   "film": "parcours"
   },
   {
    "n": 23,
    "title": "Annuler sans enregistrer restaure les valeurs",
-   "file": "23-annuler-sans-enregistrer-restaure-les-valeurs.png"
+   "file": "23-annuler-sans-enregistrer-restaure-les-valeurs.png",
+   "film": "parcours"
   },
   {
    "n": 24,
    "title": "Nouveau téléphone enregistré",
-   "file": "24-nouveau-t-l-phone-enregistr.png"
+   "file": "24-nouveau-telephone-enregistre.png",
+   "film": "parcours"
   },
   {
    "n": 25,
    "title": "Publication du site",
-   "file": "25-publication-du-site.png"
+   "file": "25-publication-du-site.png",
+   "film": "parcours"
   },
   {
    "n": 26,
    "title": "Le pied de page publié montre le nouveau numéro",
-   "file": "26-le-pied-de-page-publi-montre-le-nouveau-num-ro.png"
+   "file": "26-le-pied-de-page-publie-montre-le-nouveau-numero.png",
+   "film": "parcours"
   },
   {
    "n": 27,
    "title": "L'espace opérateur demande une connexion, même avec une session de gérante",
-   "file": "27-l-espace-op-rateur-demande-une-connexion-m-me-avec-une-session-de-g-rante.png"
+   "file": "27-l-espace-operateur-demande-une-connexion-meme-avec-une-session-de-gerante.png",
+   "film": "parcours"
   },
   {
    "n": 28,
    "title": "Connexion de l'opérateur : la liste des studios",
-   "file": "28-connexion-de-l-op-rateur-la-liste-des-studios.png"
+   "file": "28-connexion-de-l-operateur-la-liste-des-studios.png",
+   "film": "parcours"
   },
   {
    "n": 29,
    "title": "Un slug déjà pris est refusé, l'erreur est affichée en clair",
-   "file": "29-un-slug-d-j-pris-est-refus-l-erreur-est-affich-e-en-clair.png"
+   "file": "29-un-slug-deja-pris-est-refuse-l-erreur-est-affichee-en-clair.png",
+   "film": "parcours"
   },
   {
    "n": 30,
    "title": "Création de « Studio Démo » : le mot de passe initial s'affiche une seule fois",
-   "file": "30-cr-ation-de-studio-d-mo-le-mot-de-passe-initial-s-affiche-une-seule-fois.png"
+   "file": "30-creation-de-studio-demo-le-mot-de-passe-initial-s-affiche-une-seule-fois.png",
+   "film": "parcours"
   },
   {
    "n": 31,
    "title": "Le site modèle de Studio Démo est en ligne sur son sous-domaine",
-   "file": "31-le-site-mod-le-de-studio-d-mo-est-en-ligne-sur-son-sous-domaine.png"
+   "file": "31-le-site-modele-de-studio-demo-est-en-ligne-sur-son-sous-domaine.png",
+   "film": "parcours"
   },
   {
    "n": 32,
    "title": "Retour au tableau : le mot de passe initial n'est plus affiché",
-   "file": "32-retour-au-tableau-le-mot-de-passe-initial-n-est-plus-affich.png"
+   "file": "32-retour-au-tableau-le-mot-de-passe-initial-n-est-plus-affiche.png",
+   "film": "parcours"
   },
   {
    "n": 33,
    "title": "Suspension de studio-demo, après confirmation",
-   "file": "33-suspension-de-studio-demo-apr-s-confirmation.png"
+   "file": "33-suspension-de-studio-demo-apres-confirmation.png",
+   "film": "parcours"
   },
   {
    "n": 34,
    "title": "L'adresse de studio-demo affiche « Site introuvable »",
-   "file": "34-l-adresse-de-studio-demo-affiche-site-introuvable.png"
+   "file": "34-l-adresse-de-studio-demo-affiche-site-introuvable.png",
+   "film": "parcours"
   },
   {
    "n": 35,
    "title": "Réactivation de studio-demo",
-   "file": "35-r-activation-de-studio-demo.png"
+   "file": "35-reactivation-de-studio-demo.png",
+   "film": "parcours"
   },
   {
    "n": 36,
    "title": "Le site de studio-demo est de retour",
-   "file": "36-le-site-de-studio-demo-est-de-retour.png"
+   "file": "36-le-site-de-studio-demo-est-de-retour.png",
+   "film": "parcours"
   },
   {
    "n": 37,
    "title": "Horaires : l'horaire d'automne, transcrit en tableau, pas encore affiché",
-   "file": "37-horaires-l-horaire-d-automne-transcrit-en-tableau-pas-encore-affich.png"
+   "file": "37-horaires-l-horaire-d-automne-transcrit-en-tableau-pas-encore-affiche.png",
+   "film": "parcours"
   },
   {
    "n": 38,
    "title": "Un créneau changé : Débutants, mardi",
-   "file": "38-un-cr-neau-chang-d-butants-mardi.png"
+   "file": "38-un-creneau-change-debutants-mardi.png",
+   "film": "parcours"
   },
   {
    "n": 39,
    "title": "Un cours ajouté : son nom est suggéré par la page « Les cours »",
-   "file": "39-un-cours-ajout-son-nom-est-sugg-r-par-la-page-les-cours.png"
+   "file": "39-un-cours-ajoute-son-nom-est-suggere-par-la-page-les-cours.png",
+   "film": "parcours"
   },
   {
    "n": 40,
    "title": "« Afficher ce tableau sur le site à la place de l'image » est coché",
-   "file": "40-afficher-ce-tableau-sur-le-site-la-place-de-l-image-est-coch.png"
+   "file": "40-afficher-ce-tableau-sur-le-site-a-la-place-de-l-image-est-coche.png",
+   "film": "parcours"
   },
   {
    "n": 41,
    "title": "Enregistrement puis publication",
-   "file": "41-enregistrement-puis-publication.png"
+   "file": "41-enregistrement-puis-publication.png",
+   "film": "parcours"
   },
   {
    "n": 42,
    "title": "La page des horaires montre le tableau, avec le créneau modifié et le cours ajouté",
-   "file": "42-la-page-des-horaires-montre-le-tableau-avec-le-cr-neau-modifi-et-le-cours-ajout.png"
+   "file": "42-la-page-des-horaires-montre-le-tableau-avec-le-creneau-modifie-et-le-cours-ajoute.png",
+   "film": "parcours"
+  },
+  {
+   "n": 43,
+   "title": "L'opérateur crée « Studio Démo Réservation » : un nouveau studio, sans réservation en ligne (mode none)",
+   "file": "43-l-operateur-cree-studio-demo-reservation-un-nouveau-studio-sans-reservation-en-ligne-mode-.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 44,
+   "title": "La gérante se connecte à l'administration de son studio",
+   "file": "44-la-gerante-se-connecte-a-l-administration-de-son-studio.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 45,
+   "title": "Réservations → Réglages : « Aucune réservation en ligne » (mode d'un studio neuf)",
+   "file": "45-reservations-reglages-aucune-reservation-en-ligne-mode-d-un-studio-neuf.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 46,
+   "title": "Horaires : « Afficher ce tableau sur le site à la place de l'image » est coché pour l'horaire de la période 1",
+   "file": "46-horaires-afficher-ce-tableau-sur-le-site-a-la-place-de-l-image-est-coche-pour-l-horaire-de.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 47,
+   "title": "Publication : la page des horaires montre le tableau",
+   "file": "47-publication-la-page-des-horaires-montre-le-tableau.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 48,
+   "title": "Réglages : la gérante choisit la réservation gestudio et enregistre",
+   "file": "48-reglages-la-gerante-choisit-la-reservation-gestudio-et-enregistre.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 49,
+   "title": "Publication : la page Réservation du studio affiche le planning et le compte élève",
+   "file": "49-publication-la-page-reservation-du-studio-affiche-le-planning-et-le-compte-eleve.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 50,
+   "title": "O1 — la gérante clique sur l'onglet « Réservations » : le chronomètre démarre",
+   "file": "50-o1-la-gerante-clique-sur-l-onglet-reservations-le-chronometre-demarre.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 51,
+   "title": "Ouvrir une session : l'horaire de la période 1, du 2026-10-26 au 2026-11-22",
+   "file": "51-ouvrir-une-session-l-horaire-de-la-periode-1-du-2026-10-26-au-2026-11-22.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 52,
+   "title": "Un jour exclu : le 2026-11-11",
+   "file": "52-un-jour-exclu-le-2026-11-11.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 53,
+   "title": "« Voir l'aperçu » : les séances par cours, rien n'est encore créé",
+   "file": "53-voir-l-apercu-les-seances-par-cours-rien-n-est-encore-cree.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 54,
+   "title": "Une seule place pour le cours « Débutants » (la séance se remplira vite)",
+   "file": "54-une-seule-place-pour-le-cours-debutants-la-seance-se-remplira-vite.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 55,
+   "title": "« Ouvrir la session » : session créée — O1 : 0 min 15 s, objectif < 10 min",
+   "file": "55-ouvrir-la-session-session-creee-o1-0-min-15-s-objectif-10-min.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 56,
+   "title": "Une élève crée son compte sur la page Réservation : formulaire, question de sécurité, case d'accord d'envoi des courriels",
+   "file": "56-une-eleve-cree-son-compte-sur-la-page-reservation-formulaire-question-de-securite-case-d-a.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 57,
+   "title": "« Créer mon compte » : un lien de vérification lui est envoyé",
+   "file": "57-creer-mon-compte-un-lien-de-verification-lui-est-envoye.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 58,
+   "title": "Son courriel de vérification (Mailpit)",
+   "file": "58-son-courriel-de-verification-mailpit.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 59,
+   "title": "Elle ouvre le lien : adresse vérifiée",
+   "file": "59-elle-ouvre-le-lien-adresse-verifiee.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 60,
+   "title": "Élèves : la gérante retrouve Léa et ouvre sa fiche",
+   "file": "60-eleves-la-gerante-retrouve-lea-et-ouvre-sa-fiche.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 61,
+   "title": "Elle lui enregistre une carte de 10 séances : « 10 séances restantes »",
+   "file": "61-elle-lui-enregistre-une-carte-de-10-seances-10-seances-restantes.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 62,
+   "title": "Sur son téléphone, Léa se connecte : le planning de la semaine",
+   "file": "62-sur-son-telephone-lea-se-connecte-le-planning-de-la-semaine.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 63,
+   "title": "O2 — geste 1 : elle touche la séance « Débutants » de mercredi",
+   "file": "63-o2-geste-1-elle-touche-la-seance-debutants-de-mercredi.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 64,
+   "title": "Geste 2 : « Réserver »",
+   "file": "64-geste-2-reserver.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 65,
+   "title": "Geste 3 : « Confirmer » — réservée en 3 gestes : la séance est complète",
+   "file": "65-geste-3-confirmer-reservee-en-3-gestes-la-seance-est-complete.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 66,
+   "title": "Une deuxième élève, Nora, crée son compte (même formulaire, case d'accord cochée)",
+   "file": "66-une-deuxieme-eleve-nora-cree-son-compte-meme-formulaire-case-d-accord-cochee.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 67,
+   "title": "Son courriel de vérification, puis le lien : adresse vérifiée",
+   "file": "67-son-courriel-de-verification-puis-le-lien-adresse-verifiee.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 68,
+   "title": "La gérante enregistre aussi une carte de 10 séances à Nora",
+   "file": "68-la-gerante-enregistre-aussi-une-carte-de-10-seances-a-nora.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 69,
+   "title": "Mon compte de Nora : « 10 séances restantes, jusqu'au 24 janvier 2027 »",
+   "file": "69-mon-compte-de-nora-10-seances-restantes-jusqu-au-24-janvier-2027.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 70,
+   "title": "La séance de mercredi est complète : Nora s'inscrit en liste d'attente",
+   "file": "70-la-seance-de-mercredi-est-complete-nora-s-inscrit-en-liste-d-attente.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 71,
+   "title": "Léa annule sa réservation, dans le délai d'annulation",
+   "file": "71-lea-annule-sa-reservation-dans-le-delai-d-annulation.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 72,
+   "title": "Nora reçoit « une place s'est libérée » (Mailpit)",
+   "file": "72-nora-recoit-une-place-s-est-liberee-mailpit.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 73,
+   "title": "Nora, encore en liste d'attente, réserve la place libérée",
+   "file": "73-nora-encore-en-liste-d-attente-reserve-la-place-liberee.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 74,
+   "title": "Un prospect, Inès, crée son compte et vérifie son adresse",
+   "file": "74-un-prospect-ines-cree-son-compte-et-verifie-son-adresse.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 75,
+   "title": "Connectée, sans carte : elle demande un cours d'essai jeudi",
+   "file": "75-connectee-sans-carte-elle-demande-un-cours-d-essai-jeudi.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 76,
+   "title": "« Essais à traiter » : la gérante voit la demande d'Inès",
+   "file": "76-essais-a-traiter-la-gerante-voit-la-demande-d-ines.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 77,
+   "title": "Elle accepte l'essai",
+   "file": "77-elle-accepte-l-essai.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 78,
+   "title": "L'horloge passe à la veille, 18 h 05 : Nora reçoit le rappel de sa séance (Mailpit)",
+   "file": "78-l-horloge-passe-a-la-veille-18-h-05-nora-recoit-le-rappel-de-sa-seance-mailpit.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 79,
+   "title": "L'horloge passe après la séance : elle attend son pointage dans « Séances à pointer »",
+   "file": "79-l-horloge-passe-apres-la-seance-elle-attend-son-pointage-dans-seances-a-pointer.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 80,
+   "title": "Pointage : Nora est présente, la gérante enregistre",
+   "file": "80-pointage-nora-est-presente-la-gerante-enregistre.png",
+   "film": "parcours-9"
+  },
+  {
+   "n": 81,
+   "title": "Mon compte de Nora : « 9 séances restantes, jusqu'au 24 janvier 2027 » — une séance de moins qu'avant sa réservation",
+   "file": "81-mon-compte-de-nora-9-seances-restantes-jusqu-au-24-janvier-2027-une-seance-de-moins-qu-ava.png",
+   "film": "parcours-9"
   }
  ]
 }
