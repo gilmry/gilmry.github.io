@@ -1,47 +1,1200 @@
 {
- "recordedAt": "2026-10-25T07:45:45.358Z",
+ "recordedAt": "2026-10-28T05:04:49.662Z",
  "base": "http://127.0.0.1:28080",
  "films": [
   {
    "fichier": "parcours.webm",
-   "ms": 205302,
-   "octets": 14115287,
+   "ms": 183199,
+   "octets": 12936924,
    "cadence": {
     "gestes": 66,
-    "ecartMinMs": 1008,
-    "ecartMedianMs": 1244,
-    "ecartMoyenMs": 2862
-   }
+    "ecartMinMs": 1001,
+    "ecartMedianMs": 1031,
+    "ecartMoyenMs": 2507
+   },
+   "journal": [
+    [
+     4560,
+     4577
+    ],
+    [
+     5580,
+     5618
+    ],
+    [
+     6620,
+     6669
+    ],
+    [
+     8805,
+     8849
+    ],
+    [
+     11002,
+     11060
+    ],
+    [
+     13202,
+     13234
+    ],
+    [
+     14236,
+     14257
+    ],
+    [
+     15259,
+     15272
+    ],
+    [
+     16273,
+     17728
+    ],
+    [
+     19825,
+     19864
+    ],
+    [
+     26476,
+     26515
+    ],
+    [
+     37445,
+     37516
+    ],
+    [
+     38539,
+     38595
+    ],
+    [
+     41480,
+     41555
+    ],
+    [
+     42589,
+     42667
+    ],
+    [
+     44818,
+     44843
+    ],
+    [
+     46966,
+     47020
+    ],
+    [
+     48038,
+     48095
+    ],
+    [
+     49097,
+     49114
+    ],
+    [
+     50116,
+     50374
+    ],
+    [
+     51376,
+     51431
+    ],
+    [
+     52433,
+     52451
+    ],
+    [
+     53453,
+     54560
+    ],
+    [
+     56673,
+     56716
+    ],
+    [
+     57747,
+     57785
+    ],
+    [
+     70889,
+     70951
+    ],
+    [
+     71962,
+     72110
+    ],
+    [
+     74258,
+     74302
+    ],
+    [
+     76429,
+     76467
+    ],
+    [
+     77500,
+     77538
+    ],
+    [
+     88085,
+     88134
+    ],
+    [
+     90315,
+     90329
+    ],
+    [
+     91331,
+     91362
+    ],
+    [
+     92374,
+     92399
+    ],
+    [
+     96630,
+     96673
+    ],
+    [
+     98810,
+     98824
+    ],
+    [
+     99826,
+     99876
+    ],
+    [
+     102014,
+     102056
+    ],
+    [
+     114058,
+     114069
+    ],
+    [
+     115070,
+     115096
+    ],
+    [
+     116097,
+     116144
+    ],
+    [
+     118263,
+     118276
+    ],
+    [
+     119278,
+     119305
+    ],
+    [
+     120307,
+     120335
+    ],
+    [
+     121336,
+     121393
+    ],
+    [
+     123535,
+     123551
+    ],
+    [
+     124552,
+     124567
+    ],
+    [
+     125568,
+     125600
+    ],
+    [
+     126602,
+     126658
+    ],
+    [
+     137139,
+     137166
+    ],
+    [
+     143127,
+     143167
+    ],
+    [
+     144184,
+     144224
+    ],
+    [
+     148737,
+     148821
+    ],
+    [
+     149823,
+     149871
+    ],
+    [
+     154616,
+     154673
+    ],
+    [
+     155687,
+     155742
+    ],
+    [
+     157956,
+     157970
+    ],
+    [
+     158972,
+     159479
+    ],
+    [
+     163635,
+     163684
+    ],
+    [
+     164710,
+     164731
+    ],
+    [
+     165733,
+     165786
+    ],
+    [
+     166787,
+     166835
+    ],
+    [
+     167837,
+     167848
+    ],
+    [
+     170002,
+     170048
+    ],
+    [
+     172234,
+     172282
+    ],
+    [
+     173314,
+     173351
+    ]
+   ]
   },
   {
    "fichier": "parcours-9.webm",
-   "ms": 231978,
-   "octets": 16513290,
+   "ms": 213552,
+   "octets": 15096109,
    "cadence": {
     "gestes": 106,
-    "ecartMinMs": 1009,
-    "ecartMedianMs": 1046,
-    "ecartMoyenMs": 2180
-   }
+    "ecartMinMs": 1001,
+    "ecartMedianMs": 1019,
+    "ecartMoyenMs": 1967
+   },
+   "journal": [
+    [
+     790,
+     802
+    ],
+    [
+     1803,
+     1837
+    ],
+    [
+     2838,
+     2869
+    ],
+    [
+     3870,
+     3923
+    ],
+    [
+     16291,
+     16303
+    ],
+    [
+     17304,
+     17323
+    ],
+    [
+     18324,
+     18372
+    ],
+    [
+     20504,
+     20594
+    ],
+    [
+     23606,
+     23635
+    ],
+    [
+     24663,
+     24711
+    ],
+    [
+     26895,
+     26936
+    ],
+    [
+     36428,
+     36497
+    ],
+    [
+     37520,
+     37573
+    ],
+    [
+     38574,
+     38640
+    ],
+    [
+     40864,
+     40902
+    ],
+    [
+     52493,
+     52533
+    ],
+    [
+     54719,
+     54729
+    ],
+    [
+     55731,
+     55740
+    ],
+    [
+     56741,
+     56770
+    ],
+    [
+     58916,
+     58928
+    ],
+    [
+     59930,
+     60001
+    ],
+    [
+     62140,
+     62178
+    ],
+    [
+     64360,
+     64372
+    ],
+    [
+     66482,
+     66528
+    ],
+    [
+     69472,
+     69504
+    ],
+    [
+     70521,
+     70542
+    ],
+    [
+     71543,
+     71553
+    ],
+    [
+     72555,
+     72584
+    ],
+    [
+     73586,
+     73618
+    ],
+    [
+     74661,
+     74671
+    ],
+    [
+     75672,
+     75730
+    ],
+    [
+     77917,
+     77961
+    ],
+    [
+     87368,
+     87473
+    ],
+    [
+     88500,
+     88516
+    ],
+    [
+     89518,
+     89566
+    ],
+    [
+     90587,
+     90639
+    ],
+    [
+     92806,
+     92816
+    ],
+    [
+     93817,
+     93850
+    ],
+    [
+     94852,
+     94883
+    ],
+    [
+     95885,
+     95920
+    ],
+    [
+     96922,
+     96964
+    ],
+    [
+     99864,
+     99877
+    ],
+    [
+     100879,
+     100906
+    ],
+    [
+     101908,
+     101967
+    ],
+    [
+     104111,
+     104164
+    ],
+    [
+     106225,
+     106245
+    ],
+    [
+     108342,
+     108362
+    ],
+    [
+     111289,
+     111314
+    ],
+    [
+     112331,
+     112396
+    ],
+    [
+     113411,
+     113426
+    ],
+    [
+     114427,
+     114450
+    ],
+    [
+     117502,
+     117530
+    ],
+    [
+     118532,
+     118544
+    ],
+    [
+     119586,
+     119598
+    ],
+    [
+     120599,
+     120646
+    ],
+    [
+     121685,
+     121728
+    ],
+    [
+     126503,
+     126568
+    ],
+    [
+     127597,
+     127611
+    ],
+    [
+     128613,
+     128663
+    ],
+    [
+     129680,
+     129715
+    ],
+    [
+     130752,
+     130758
+    ],
+    [
+     131759,
+     131786
+    ],
+    [
+     132789,
+     132814
+    ],
+    [
+     133815,
+     133848
+    ],
+    [
+     134849,
+     134895
+    ],
+    [
+     137828,
+     137840
+    ],
+    [
+     138841,
+     138865
+    ],
+    [
+     139867,
+     139943
+    ],
+    [
+     142918,
+     142962
+    ],
+    [
+     143964,
+     143999
+    ],
+    [
+     146888,
+     146913
+    ],
+    [
+     147932,
+     147955
+    ],
+    [
+     148957,
+     148974
+    ],
+    [
+     152020,
+     152091
+    ],
+    [
+     153127,
+     153172
+    ],
+    [
+     154183,
+     154247
+    ],
+    [
+     159719,
+     159773
+    ],
+    [
+     160792,
+     160812
+    ],
+    [
+     161813,
+     161841
+    ],
+    [
+     162842,
+     162905
+    ],
+    [
+     163977,
+     164023
+    ],
+    [
+     165024,
+     165075
+    ],
+    [
+     167992,
+     168021
+    ],
+    [
+     169038,
+     169077
+    ],
+    [
+     170096,
+     170118
+    ],
+    [
+     171120,
+     171150
+    ],
+    [
+     172152,
+     172177
+    ],
+    [
+     173179,
+     173209
+    ],
+    [
+     174250,
+     174262
+    ],
+    [
+     175265,
+     175323
+    ],
+    [
+     176379,
+     176427
+    ],
+    [
+     183695,
+     183711
+    ],
+    [
+     186778,
+     186811
+    ],
+    [
+     187812,
+     187848
+    ],
+    [
+     188942,
+     188986
+    ],
+    [
+     189989,
+     190037
+    ],
+    [
+     192989,
+     193087
+    ],
+    [
+     195269,
+     195316
+    ],
+    [
+     200716,
+     200826
+    ],
+    [
+     202997,
+     203034
+    ],
+    [
+     204043,
+     204074
+    ],
+    [
+     205076,
+     205122
+    ],
+    [
+     208114,
+     208172
+    ],
+    [
+     209188,
+     209205
+    ],
+    [
+     210206,
+     210232
+    ],
+    [
+     211234,
+     211287
+    ]
+   ]
+  },
+  {
+   "fichier": "parcours-r3.webm",
+   "ms": 268108,
+   "octets": 14828800,
+   "cadence": {
+    "gestes": 106,
+    "ecartMinMs": 1000,
+    "ecartMedianMs": 1026,
+    "ecartMoyenMs": 2297
+   },
+   "journal": [
+    [
+     18959,
+     18974
+    ],
+    [
+     19976,
+     19990
+    ],
+    [
+     20990,
+     21015
+    ],
+    [
+     22024,
+     22100
+    ],
+    [
+     24311,
+     24363
+    ],
+    [
+     25389,
+     25414
+    ],
+    [
+     26425,
+     26447
+    ],
+    [
+     27481,
+     27513
+    ],
+    [
+     28538,
+     28562
+    ],
+    [
+     29593,
+     29632
+    ],
+    [
+     30663,
+     30704
+    ],
+    [
+     32931,
+     32943
+    ],
+    [
+     33944,
+     33969
+    ],
+    [
+     34971,
+     35042
+    ],
+    [
+     41361,
+     41403
+    ],
+    [
+     43570,
+     43582
+    ],
+    [
+     44584,
+     44620
+    ],
+    [
+     45621,
+     45652
+    ],
+    [
+     46654,
+     46678
+    ],
+    [
+     47680,
+     47704
+    ],
+    [
+     49773,
+     49803
+    ],
+    [
+     50805,
+     50836
+    ],
+    [
+     51838,
+     51890
+    ],
+    [
+     54005,
+     54015
+    ],
+    [
+     55016,
+     55072
+    ],
+    [
+     56073,
+     56129
+    ],
+    [
+     58275,
+     58302
+    ],
+    [
+     59303,
+     59337
+    ],
+    [
+     71417,
+     71430
+    ],
+    [
+     72431,
+     72461
+    ],
+    [
+     73463,
+     73515
+    ],
+    [
+     78648,
+     78692
+    ],
+    [
+     79763,
+     79812
+    ],
+    [
+     82749,
+     82830
+    ],
+    [
+     85029,
+     85069
+    ],
+    [
+     87168,
+     87203
+    ],
+    [
+     95665,
+     95726
+    ],
+    [
+     96774,
+     96786
+    ],
+    [
+     99752,
+     99838
+    ],
+    [
+     100880,
+     100895
+    ],
+    [
+     101897,
+     101941
+    ],
+    [
+     102969,
+     103005
+    ],
+    [
+     105210,
+     105256
+    ],
+    [
+     107409,
+     107452
+    ],
+    [
+     111779,
+     111789
+    ],
+    [
+     115875,
+     115925
+    ],
+    [
+     117987,
+     118006
+    ],
+    [
+     120101,
+     120138
+    ],
+    [
+     122238,
+     122290
+    ],
+    [
+     123291,
+     123322
+    ],
+    [
+     124381,
+     124425
+    ],
+    [
+     125426,
+     125485
+    ],
+    [
+     126486,
+     126523
+    ],
+    [
+     129893,
+     129968
+    ],
+    [
+     132127,
+     132171
+    ],
+    [
+     133172,
+     133185
+    ],
+    [
+     134187,
+     134281
+    ],
+    [
+     140962,
+     141007
+    ],
+    [
+     142027,
+     142057
+    ],
+    [
+     145206,
+     145215
+    ],
+    [
+     146217,
+     146280
+    ],
+    [
+     147360,
+     147410
+    ],
+    [
+     151989,
+     152034
+    ],
+    [
+     153051,
+     153068
+    ],
+    [
+     154069,
+     154092
+    ],
+    [
+     155093,
+     155142
+    ],
+    [
+     157298,
+     157307
+    ],
+    [
+     158309,
+     158334
+    ],
+    [
+     159335,
+     159364
+    ],
+    [
+     160365,
+     160406
+    ],
+    [
+     162557,
+     162569
+    ],
+    [
+     163571,
+     163596
+    ],
+    [
+     164598,
+     164656
+    ],
+    [
+     169978,
+     170058
+    ],
+    [
+     172279,
+     172319
+    ],
+    [
+     173321,
+     173372
+    ],
+    [
+     180948,
+     181045
+    ],
+    [
+     182081,
+     182092
+    ],
+    [
+     185131,
+     185154
+    ],
+    [
+     186214,
+     186263
+    ],
+    [
+     187264,
+     187314
+    ],
+    [
+     188315,
+     188340
+    ],
+    [
+     191234,
+     191289
+    ],
+    [
+     192335,
+     192351
+    ],
+    [
+     193353,
+     193408
+    ],
+    [
+     194418,
+     194436
+    ],
+    [
+     195473,
+     195514
+    ],
+    [
+     196515,
+     196526
+    ],
+    [
+     197527,
+     197556
+    ],
+    [
+     198557,
+     198589
+    ],
+    [
+     199601,
+     199627
+    ],
+    [
+     200628,
+     200683
+    ],
+    [
+     202881,
+     202924
+    ],
+    [
+     203925,
+     203934
+    ],
+    [
+     204937,
+     204970
+    ],
+    [
+     207138,
+     207185
+    ],
+    [
+     208187,
+     208260
+    ],
+    [
+     228159,
+     228204
+    ],
+    [
+     229206,
+     229238
+    ],
+    [
+     230239,
+     230294
+    ],
+    [
+     255885,
+     255995
+    ],
+    [
+     258183,
+     258193
+    ],
+    [
+     259196,
+     259244
+    ],
+    [
+     262157,
+     262230
+    ],
+    [
+     263247,
+     263253
+    ],
+    [
+     264256,
+     264311
+    ]
+   ]
   }
  ],
  "o1": {
-  "ms": 14918,
+  "ms": 15056,
   "objectifMs": 600000,
   "ok": true,
   "texte": "de l'onglet Réservations à la session créée, au rythme du film (une pause d'une seconde après chaque geste)"
  },
  "o2": {
   "gestes": 3,
-  "ms": 5259,
+  "ms": 5282,
   "objectif": 3,
   "ok": true
  },
  "horloge": {
-  "depart9": "2026-10-26T08:00:00Z",
-  "seance": "2026-10-28T18:00:00Z",
-  "soldeAvant": "10 séances restantes, jusqu'au 24 janvier 2027",
-  "soldeApres": "9 séances restantes, jusqu'au 24 janvier 2027"
+  "depart9": "2026-11-02T08:00:00Z",
+  "seance": "2026-11-04T18:00:00Z",
+  "soldeAvant": "10 séances restantes, jusqu'au 31 janvier 2027",
+  "soldeApres": "9 séances restantes, jusqu'au 31 janvier 2027"
+ },
+ "r3": {
+  "o1": {
+   "ms": 18992,
+   "objectifMs": 300000,
+   "ok": true,
+   "texte": "de l'ouverture de « S'inscrire » au message « Demande envoyée », sur téléphone (375 px), au rythme du film (une pause d'au moins une seconde après chaque geste)"
+  },
+  "gestes": {
+   "validation": 2,
+   "formule": 2,
+   "reservation": 3,
+   "reservationMs": 5292,
+   "pause": 2
+  },
+  "export": "23/11/2026;Inès;Martin;1x;1 mois;virement;Oui;23/12/2026;27/01/2027",
+  "ecarts": [
+   "étape 5 : l'îlot ne propose que « Demander un cours d’essai » ; la réservation par l'API est refusée : « Votre inscription est en attente de validation »",
+   "étape 9 : l'îlot ne propose que « Demander un cours d’essai » ; la réservation par l'API est refusée : « Votre inscription a été refusée — contactez le studio »"
+  ],
+  "horloge": {
+   "j0": "2026-11-16",
+   "depart": "2026-11-16T07:00:00Z"
+  }
  },
  "steps": [
   {
@@ -346,14 +1499,14 @@
   },
   {
    "n": 51,
-   "title": "Ouvrir une session : l'horaire de la période 1, du 2026-10-26 au 2026-11-22",
-   "file": "51-ouvrir-une-session-l-horaire-de-la-periode-1-du-2026-10-26-au-2026-11-22.png",
+   "title": "Ouvrir une session : l'horaire de la période 1, du 2026-11-02 au 2026-11-29",
+   "file": "51-ouvrir-une-session-l-horaire-de-la-periode-1-du-2026-11-02-au-2026-11-29.png",
    "film": "parcours-9"
   },
   {
    "n": 52,
-   "title": "Un jour exclu : le 2026-11-11",
-   "file": "52-un-jour-exclu-le-2026-11-11.png",
+   "title": "Un jour exclu : le 2026-11-18",
+   "file": "52-un-jour-exclu-le-2026-11-18.png",
    "film": "parcours-9"
   },
   {
@@ -454,8 +1607,8 @@
   },
   {
    "n": 69,
-   "title": "Mon compte de Nora : « 10 séances restantes, jusqu'au 24 janvier 2027 »",
-   "file": "69-mon-compte-de-nora-10-seances-restantes-jusqu-au-24-janvier-2027.png",
+   "title": "Mon compte de Nora : « 10 séances restantes, jusqu'au 31 janvier 2027 »",
+   "file": "69-mon-compte-de-nora-10-seances-restantes-jusqu-au-31-janvier-2027.png",
    "film": "parcours-9"
   },
   {
@@ -526,9 +1679,401 @@
   },
   {
    "n": 81,
-   "title": "Mon compte de Nora : « 9 séances restantes, jusqu'au 24 janvier 2027 » — une séance de moins qu'avant sa réservation",
-   "file": "81-mon-compte-de-nora-9-seances-restantes-jusqu-au-24-janvier-2027-une-seance-de-moins-qu-ava.png",
+   "title": "Mon compte de Nora : « 9 séances restantes, jusqu'au 31 janvier 2027 » — une séance de moins qu'avant sa réservation",
+   "file": "81-mon-compte-de-nora-9-seances-restantes-jusqu-au-31-janvier-2027-une-seance-de-moins-qu-ava.png",
    "film": "parcours-9"
+  },
+  {
+   "n": 82,
+   "title": "1 · Réglages — la gérante ouvre Réservations › Inscriptions › Réglages : « Validation des inscriptions : activée »",
+   "file": "82-1-reglages-la-gerante-ouvre-reservations-inscriptions-reglages-validation-des-inscriptions.png",
+   "film": "parcours-r3",
+   "prd": 1
+  },
+  {
+   "n": 83,
+   "title": "1 · Elle ne garde que trois formules : Abonnement 1 mois, 1×/semaine, Abonnement 3 mois, 2×/semaine, Carte de 10 séances",
+   "file": "83-1-elle-ne-garde-que-trois-formules-abonnement-1-mois-1-semaine-abonnement-3-mois-2-semaine.png",
+   "film": "parcours-r3",
+   "prd": 1
+  },
+  {
+   "n": 84,
+   "title": "1 · Les liens du règlement et des conditions de souscription, puis « Enregistrer »",
+   "file": "84-1-les-liens-du-reglement-et-des-conditions-de-souscription-puis-enregistrer.png",
+   "film": "parcours-r3",
+   "prd": 1
+  },
+  {
+   "n": 85,
+   "title": "2 · Inès, prospect, sur son téléphone : la page Mon compte du studio propose « S'inscrire »",
+   "file": "85-2-ines-prospect-sur-son-telephone-la-page-mon-compte-du-studio-propose-s-inscrire.png",
+   "film": "parcours-r3",
+   "prd": 2
+  },
+  {
+   "n": 86,
+   "title": "2 · O1 — elle ouvre « S'inscrire » (le chronomètre démarre) : trois formules, le lien des tarifs, la mention de paiement",
+   "file": "86-2-o1-elle-ouvre-s-inscrire-le-chronometre-demarre-trois-formules-le-lien-des-tarifs-la-men.png",
+   "film": "parcours-r3",
+   "prd": 2
+  },
+  {
+   "n": 87,
+   "title": "3 · Demande — ses coordonnées, téléphone compris",
+   "file": "87-3-demande-ses-coordonnees-telephone-compris.png",
+   "film": "parcours-r3",
+   "prd": 3
+  },
+  {
+   "n": 88,
+   "title": "3 · « Abonnement 1 mois, 1×/semaine », début le 23-11-2026, paiement par virement",
+   "file": "88-3-abonnement-1-mois-1-semaine-debut-le-23-11-2026-paiement-par-virement.png",
+   "film": "parcours-r3",
+   "prd": 3
+  },
+  {
+   "n": 89,
+   "title": "3 · Question de sécurité, accord d'envoi et conditions cochés, pas le règlement : « Envoyer ma demande » reste inactif",
+   "file": "89-3-question-de-securite-accord-d-envoi-et-conditions-coches-pas-le-reglement-envoyer-ma-dem.png",
+   "film": "parcours-r3",
+   "prd": 3
+  },
+  {
+   "n": 90,
+   "title": "3 · Elle coche le règlement et envoie : « Demande envoyée » — O1 : 19 s, objectif < 300 s",
+   "file": "90-3-elle-coche-le-reglement-et-envoie-demande-envoyee-o1-19-s-objectif-300-s.png",
+   "film": "parcours-r3",
+   "prd": 3
+  },
+  {
+   "n": 91,
+   "title": "4 · Courriels — Inès reçoit « demande d'inscription reçue », avec la mention de paiement (Mailpit)",
+   "file": "91-4-courriels-ines-recoit-demande-d-inscription-recue-avec-la-mention-de-paiement-mailpit.png",
+   "film": "parcours-r3",
+   "prd": 4
+  },
+  {
+   "n": 92,
+   "title": "4 · La gérante reçoit « nouvelle demande d'inscription »",
+   "file": "92-4-la-gerante-recoit-nouvelle-demande-d-inscription.png",
+   "film": "parcours-r3",
+   "prd": 4
+  },
+  {
+   "n": 93,
+   "title": "4 · Inès ouvre le lien de vérification : adresse vérifiée",
+   "file": "93-4-ines-ouvre-le-lien-de-verification-adresse-verifiee.png",
+   "film": "parcours-r3",
+   "prd": 4
+  },
+  {
+   "n": 94,
+   "title": "4 · Elle se connecte : Mon compte affiche « En attente de validation »",
+   "file": "94-4-elle-se-connecte-mon-compte-affiche-en-attente-de-validation.png",
+   "film": "parcours-r3",
+   "prd": 4
+  },
+  {
+   "n": 95,
+   "title": "5 · Garde — Inès tente de réserver la séance du 25-11-2026 : l'îlot ne propose que « Demander un cours d’essai » ; la réservation par l'API est refusée : « Votre inscription est en attente de validation »",
+   "file": "95-5-garde-ines-tente-de-reserver-la-seance-du-25-11-2026-l-ilot-ne-propose-que-demander-un-c.png",
+   "film": "parcours-r3",
+   "prd": 5
+  },
+  {
+   "n": 96,
+   "title": "6 · Validation — Inscriptions › À valider : compteur 1, la demande d'Inès",
+   "file": "96-6-validation-inscriptions-a-valider-compteur-1-la-demande-d-ines.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 97,
+   "title": "6 · O2 — geste 1 : « Valider »",
+   "file": "97-6-o2-geste-1-valider.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 98,
+   "title": "6 · Geste 2 : « Confirmer » — Inès est inscrite, validée en 2 gestes",
+   "file": "98-6-geste-2-confirmer-ines-est-inscrite-validee-en-2-gestes.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 99,
+   "title": "6 · Inès reçoit « votre inscription est validée »",
+   "file": "99-6-ines-recoit-votre-inscription-est-validee.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 100,
+   "title": "6 · Mon compte : « Votre inscription est validée ; le studio doit encore enregistrer votre formule »",
+   "file": "100-6-mon-compte-votre-inscription-est-validee-le-studio-doit-encore-enregistrer-votre-formule.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 101,
+   "title": "6 · Élèves › « Inscrites sans formule » : Inès y figure",
+   "file": "101-6-eleves-inscrites-sans-formule-ines-y-figure.png",
+   "film": "parcours-r3",
+   "prd": 6
+  },
+  {
+   "n": 102,
+   "title": "7 · Formule — la fiche d'Inès : sa demande attend sa formule",
+   "file": "102-7-formule-la-fiche-d-ines-sa-demande-attend-sa-formule.png",
+   "film": "parcours-r3",
+   "prd": 7
+  },
+  {
+   "n": 103,
+   "title": "7 · O2 — geste 1 : « Enregistrer la formule », préremplie (1 mois, 1×/semaine, début le 23-11-2026)",
+   "file": "103-7-o2-geste-1-enregistrer-la-formule-preremplie-1-mois-1-semaine-debut-le-23-11-2026.png",
+   "film": "parcours-r3",
+   "prd": 7
+  },
+  {
+   "n": 104,
+   "title": "7 · Geste 2 : « Confirmer » — abonnement du 23-11-2026 au 23-12-2026, en 2 gestes",
+   "file": "104-7-geste-2-confirmer-abonnement-du-23-11-2026-au-23-12-2026-en-2-gestes.png",
+   "film": "parcours-r3",
+   "prd": 7
+  },
+  {
+   "n": 105,
+   "title": "7 · Inès quitte « Inscrites sans formule »",
+   "file": "105-7-ines-quitte-inscrites-sans-formule.png",
+   "film": "parcours-r3",
+   "prd": 7
+  },
+  {
+   "n": 106,
+   "title": "8 · Réservation — l'horloge passe au 23-11-2026 : sur son téléphone, Inès voit le planning de la semaine",
+   "file": "106-8-reservation-l-horloge-passe-au-23-11-2026-sur-son-telephone-ines-voit-le-planning-de-la-.png",
+   "film": "parcours-r3",
+   "prd": 8
+  },
+  {
+   "n": 107,
+   "title": "8 · Geste 1 : elle touche la séance du mercredi 25-11-2026",
+   "file": "107-8-geste-1-elle-touche-la-seance-du-mercredi-25-11-2026.png",
+   "film": "parcours-r3",
+   "prd": 8
+  },
+  {
+   "n": 108,
+   "title": "8 · Geste 2 : « Réserver »",
+   "file": "108-8-geste-2-reserver.png",
+   "film": "parcours-r3",
+   "prd": 8
+  },
+  {
+   "n": 109,
+   "title": "8 · Geste 3 : « Confirmer » — réservée en 3 gestes, 5 s",
+   "file": "109-8-geste-3-confirmer-reservee-en-3-gestes-5-s.png",
+   "film": "parcours-r3",
+   "prd": 8
+  },
+  {
+   "n": 110,
+   "title": "8 · Elle réserve aussi la séance du mercredi 09-12-2026",
+   "file": "110-8-elle-reserve-aussi-la-seance-du-mercredi-09-12-2026.png",
+   "film": "parcours-r3",
+   "prd": 8
+  },
+  {
+   "n": 111,
+   "title": "9 · Refus — Zoé envoie une demande (carte de 10 séances) : la gérante la voit dans « À valider »",
+   "file": "111-9-refus-zoe-envoie-une-demande-carte-de-10-seances-la-gerante-la-voit-dans-a-valider.png",
+   "film": "parcours-r3",
+   "prd": 9
+  },
+  {
+   "n": 112,
+   "title": "9 · « Refuser », motif « Groupe complet cette session », « Confirmer »",
+   "file": "112-9-refuser-motif-groupe-complet-cette-session-confirmer.png",
+   "film": "parcours-r3",
+   "prd": 9
+  },
+  {
+   "n": 113,
+   "title": "9 · Zoé reçoit « inscription refusée », le motif dans le corps (jamais dans l'objet)",
+   "file": "113-9-zoe-recoit-inscription-refusee-le-motif-dans-le-corps-jamais-dans-l-objet.png",
+   "film": "parcours-r3",
+   "prd": 9
+  },
+  {
+   "n": 114,
+   "title": "9 · Zoé vérifie son adresse et se connecte ; elle tente de réserver : l'îlot ne propose que « Demander un cours d’essai » ; la réservation par l'API est refusée : « Votre inscription a été refusée — contactez le studio »",
+   "file": "114-9-zoe-verifie-son-adresse-et-se-connecte-elle-tente-de-reserver-l-ilot-ne-propose-que-dema.png",
+   "film": "parcours-r3",
+   "prd": 9
+  },
+  {
+   "n": 115,
+   "title": "9 · @security — la liste de Zoé ne contient pas la demande d'Inès ; sa session sur « À valider » est refusée",
+   "file": "115-9-security-la-liste-de-zoe-ne-contient-pas-la-demande-d-ines-sa-session-sur-a-valider-est-.png",
+   "film": "parcours-r3",
+   "prd": 9
+  },
+  {
+   "n": 116,
+   "title": "10 · Demande de pause — l'horloge passe au 27-11-2026 : Mon compte d'Inès, « Mes pauses »",
+   "file": "116-10-demande-de-pause-l-horloge-passe-au-27-11-2026-mon-compte-d-ines-mes-pauses.png",
+   "film": "parcours-r3",
+   "prd": 10
+  },
+  {
+   "n": 117,
+   "title": "10 · Vacances du 01-12-2026 au 14-12-2026 : « Prévenez le studio au moins 7 jours avant le départ »",
+   "file": "117-10-vacances-du-01-12-2026-au-14-12-2026-prevenez-le-studio-au-moins-7-jours-avant-le-depar.png",
+   "film": "parcours-r3",
+   "prd": 10
+  },
+  {
+   "n": 118,
+   "title": "10 · Vacances du 07-12-2026 au 20-12-2026 : demande envoyée, en attente de réponse du studio",
+   "file": "118-10-vacances-du-07-12-2026-au-20-12-2026-demande-envoyee-en-attente-de-reponse-du-studio.png",
+   "film": "parcours-r3",
+   "prd": 10
+  },
+  {
+   "n": 119,
+   "title": "10 · La gérante reçoit « nouvelle demande de pause » (sans le type)",
+   "file": "119-10-la-gerante-recoit-nouvelle-demande-de-pause-sans-le-type.png",
+   "film": "parcours-r3",
+   "prd": 10
+  },
+  {
+   "n": 120,
+   "title": "11 · Pause posée — Inscriptions › Pauses à traiter : la demande d'Inès",
+   "file": "120-11-pause-posee-inscriptions-pauses-a-traiter-la-demande-d-ines.png",
+   "film": "parcours-r3",
+   "prd": 11
+  },
+  {
+   "n": 121,
+   "title": "11 · « Poser » puis « Confirmer » (2 gestes) : fin officieuse le 06-01-2027",
+   "file": "121-11-poser-puis-confirmer-2-gestes-fin-officieuse-le-06-01-2027.png",
+   "film": "parcours-r3",
+   "prd": 11
+  },
+  {
+   "n": 122,
+   "title": "11 · Inès reçoit « pause enregistrée » : dates, fin officieuse, la séance du 09-12-2026 annulée sans décompte",
+   "file": "122-11-ines-recoit-pause-enregistree-dates-fin-officieuse-la-seance-du-09-12-2026-annulee-sans.png",
+   "film": "parcours-r3",
+   "prd": 11
+  },
+  {
+   "n": 123,
+   "title": "12 · En pause — l'horloge passe au 07-12-2026 00:05 : Élèves filtrée « En pause » montre Inès",
+   "file": "123-12-en-pause-l-horloge-passe-au-07-12-2026-00-05-eleves-filtree-en-pause-montre-ines.png",
+   "film": "parcours-r3",
+   "prd": 12
+  },
+  {
+   "n": 124,
+   "title": "12 · Inès tente de réserver la séance du 16-12-2026 : « Vous êtes en pause du 07-12-2026 au 20-12-2026 »",
+   "file": "124-12-ines-tente-de-reserver-la-seance-du-16-12-2026-vous-etes-en-pause-du-07-12-2026-au-20-1.png",
+   "film": "parcours-r3",
+   "prd": 12
+  },
+  {
+   "n": 125,
+   "title": "13 · Fiche d'Inès : une seconde pause vacances est refusée — « La pause vacances de cet abonnement a déjà été prise »",
+   "file": "125-13-fiche-d-ines-une-seconde-pause-vacances-est-refusee-la-pause-vacances-de-cet-abonnement.png",
+   "film": "parcours-r3",
+   "prd": 13
+  },
+  {
+   "n": 126,
+   "title": "13 · Pause exceptionnelle du 28-12-2026 au 17-01-2027 sans « Justificatif vu » : « Poser » reste inactif",
+   "file": "126-13-pause-exceptionnelle-du-28-12-2026-au-17-01-2027-sans-justificatif-vu-poser-reste-inact.png",
+   "film": "parcours-r3",
+   "prd": 13
+  },
+  {
+   "n": 127,
+   "title": "13 · « Justificatif vu » coché : la pause exceptionnelle est posée — fin officieuse le 27-01-2027",
+   "file": "127-13-justificatif-vu-coche-la-pause-exceptionnelle-est-posee-fin-officieuse-le-27-01-2027.png",
+   "film": "parcours-r3",
+   "prd": 13
+  },
+  {
+   "n": 128,
+   "title": "13 · Inès reçoit le courriel de sa pause exceptionnelle (dates, nouvelle fin d'abonnement, aucun motif)",
+   "file": "128-13-ines-recoit-le-courriel-de-sa-pause-exceptionnelle-dates-nouvelle-fin-d-abonnement-aucu.png",
+   "film": "parcours-r3",
+   "prd": 13
+  },
+  {
+   "n": 129,
+   "title": "13 · Mon compte d'Inès : ses deux pauses, l'exceptionnelle sans motif",
+   "file": "129-13-mon-compte-d-ines-ses-deux-pauses-l-exceptionnelle-sans-motif.png",
+   "film": "parcours-r3",
+   "prd": 13
+  },
+  {
+   "n": 130,
+   "title": "14 · Fin de pause — l'horloge passe au 21-12-2026 : Mon compte d'Inès dit de nouveau « Inscrite »",
+   "file": "130-14-fin-de-pause-l-horloge-passe-au-21-12-2026-mon-compte-d-ines-dit-de-nouveau-inscrite.png",
+   "film": "parcours-r3",
+   "prd": 14
+  },
+  {
+   "n": 131,
+   "title": "14 · Inès reçoit « votre pause est terminée »",
+   "file": "131-14-ines-recoit-votre-pause-est-terminee.png",
+   "film": "parcours-r3",
+   "prd": 14
+  },
+  {
+   "n": 132,
+   "title": "14 · Elle réserve la séance du mercredi 23-12-2026, avant sa pause exceptionnelle",
+   "file": "132-14-elle-reserve-la-seance-du-mercredi-23-12-2026-avant-sa-pause-exceptionnelle.png",
+   "film": "parcours-r3",
+   "prd": 14
+  },
+  {
+   "n": 133,
+   "title": "14 · L'horloge passe au 13-01-2027 (J-14 de la fin officieuse 27-01-2027) : « renouvellement de votre abonnement », reçu 1 fois malgré plusieurs passages du planificateur",
+   "file": "133-14-l-horloge-passe-au-13-01-2027-j-14-de-la-fin-officieuse-27-01-2027-renouvellement-de-vo.png",
+   "film": "parcours-r3",
+   "prd": 14
+  },
+  {
+   "n": 134,
+   "title": "15 · Export — Exporter les inscriptions : l'avertissement « données personnelles »",
+   "file": "134-15-export-exporter-les-inscriptions-l-avertissement-donnees-personnelles.png",
+   "film": "parcours-r3",
+   "prd": 15
+  },
+  {
+   "n": 135,
+   "title": "15 · « Télécharger » le CSV : la ligne d'Inès, ni Zoé ni aucune adresse e-mail",
+   "file": "135-15-telecharger-le-csv-la-ligne-d-ines-ni-zoe-ni-aucune-adresse-e-mail.png",
+   "film": "parcours-r3",
+   "prd": 15
+  },
+  {
+   "n": 136,
+   "title": "15 · « Télécharger » le .xlsx : un classeur (archive ZIP) à ouvrir dans Excel ou LibreOffice",
+   "file": "136-15-telecharger-le-xlsx-un-classeur-archive-zip-a-ouvrir-dans-excel-ou-libreoffice.png",
+   "film": "parcours-r3",
+   "prd": 15
+  },
+  {
+   "n": 137,
+   "title": "16 · Clôture @security — aucun courriel d'un autre studio chez Inès et Zoé ; l'export du studio démo, avec la gérante d'un autre studio → 404",
+   "file": "137-16-cloture-security-aucun-courriel-d-un-autre-studio-chez-ines-et-zoe-l-export-du-studio-d.png",
+   "film": "parcours-r3",
+   "prd": 16
   }
  ]
 }
